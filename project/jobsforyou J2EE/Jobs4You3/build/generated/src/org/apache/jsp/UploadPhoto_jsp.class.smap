@@ -1,0 +1,21 @@
+SMAP
+UploadPhoto_jsp.java
+JSP
+*S JSP
+*F
++ 0 UploadPhoto.jsp
+UploadPhoto.jsp
++ 1 Header2.jsp
+Header2.jsp
++ 2 menu.html
+menu.html
++ 3 Footer.jsp
+Footer.jsp
+*L
+1,9:51
+1#1,36:60
+1#2,21:95
+9#0,12:116
+1#3,2:128
+20#0,5:129
+*E

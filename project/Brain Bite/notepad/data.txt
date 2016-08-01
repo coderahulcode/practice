@@ -1,0 +1,81 @@
+ insert into gkq values(1,'Grand Central Terminal,Park Avenue,New York is the world............?','Largest Railway Station','Longest Railway Station','Highest Railway Station','None of these','Largest Railway Station');
+
+
+Hitler party which came into power in1933 is known as?Labour Party  
+
+For which of the following disciplines is Noble prize awarded?
+Physics & Chemistry
+Physiology or Medicine
+Literature & Peace 
+All of these
+
+
+FFC stands for?
+Foreign Finance Corporation 
+Film Finance Corporation
+Federation of Football Council
+None of these
+
+
+First World War was held in?
+
+1894
+1914
+1932
+1921
+
+
+
+sports 
+
+
+Which country win the World Cup of FIFA-2014?
+
+Spain
+Germany 
+Italy 
+Brasil
+
+
+Who was the first Bangladeshi cricketer scores double century in test cricket?
+
+Nasir Hossain
+Mohammad Ashraful
+Mushfiqur Rahim
+Mashrafe Mortaza
+
+Which athlete known as Flying Sikh?
+Milkha Singh
+Pargat Singh
+Gurbaksh Singh
+Fauja Singh
+
+
+In Glasgow-2014 Comonwealth games India took how many medals?
+89
+67
+64
+75
+
+
+10
+11
+12
+9
+
+
+create table technicalq(qid number(5) primary key,quename varchar2(100),qa varchar2(50),qb varchar2(50),qc varchar2(50),qd varchar2(50),qans varchar2(50));
+insert into technicalq values(1,'Who developed the C++ language?','Dennies Ritchie','James Gosling','Bjarne Stroustup','Bill Gates','Bjarne Stroustup');
+insert into technicalq values(2,'Which drive stores the large amount of data?','Hard Disk Drive','Pen Drive','Zip Drive','ROM Drive','Hard Disk Drive');
+insert into technicalq values(3,'Full Form of CD?','Common Disk','Compact Disk','Control Disk','Corrupt Disk','Compact Disk');
+insert into technicalq values(4,'RAM stores data............?','Permanent','Temporary','Both A&B','None of these','Temporary');
+insert into technicalq values(5,'Data is stored in computer as.............?','Files','Directories','Floppies','Matter','Files');
+insert into technicalq values(6,'The third generation computer was made with.........?','Vaccum Tubes','Discrete Components','IC','Bio Chips','IC');
+
+
+create table demoq(qid number(5) primary key,quename varchar2(100),qa varchar2(50),qb varchar2(50),qc varchar2(50),qd varchar2(50),qans varchar2(50));
+insert into demoq values(1,'Who was the father of Computer?','Ken Thompson','Charles Babbage','J Washington','J.J Bose','Charles Babbage');
+insert into demoq values(2,'How many members in the Lok Sabha?',245,545,265,275,545);
+insert into demoq values(3,'Name the first artificial inteligence of India?','Arya Bhatt','Neptuno','ISRO','Indian112','Arya Bhatt');
+insert into demoq values(4,'How many continents in the world?',5,6,7,8,5);
+insert into demoq values(5,'How many states in India?',25,27,28,29,29);

@@ -1,0 +1,13 @@
+create table adminlogin(adminid varchar2(20) primary key,password varchar2(20));
+
+create table userlogin(userid number(5) primary key,password varchar2(18));
+
+create table demoq(qid number(5) primary key, quename varchar2(500), qa varchar2(100),qb varchar2(100),qc varchar2(100),qd varchar2(100),qans varchar2(100));
+
+create table gkq(qid number(5) primary key, quename varchar2(500), qa varchar2(100),qb varchar2(100),qc varchar2(100),qd varchar2(100),qans varchar2(100));
+
+create table sportsq(qid number(5) primary key, quename varchar2(500), qa varchar2(100),qb varchar2(100),qc varchar2(100),qd varchar2(100),qans varchar2(100));
+
+create table technicalq(qid number(5) primary key, quename varchar2(500), qa varchar2(100),qb varchar2(100),qc varchar2(100),qd varchar2(100),qans varchar2(100));
+
+
